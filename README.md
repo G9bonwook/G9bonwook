@@ -8,9 +8,13 @@
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> 
 
+## Tools
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-191717?style=flat-square&logo=Github&logoColor=white"/>
+
 [![G9bonwook's GitHub stats](https://github-readme-stats.vercel.app/api?username=G9bonwook)](https://github.com/G9bonwook/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G9bonwook)](https://github.com/G9bonwook/github-readme-stats)
+
 
 
 ## Awards
