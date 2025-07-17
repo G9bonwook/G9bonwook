@@ -18,10 +18,13 @@
 2. 2024년 K-디지털 챌린지 : NET 챌린지 캠프 시즌 11 특별상 - KT 🏆
 3. ACK 2024 우수논문상 🎖️
 
+
 ## Certificate
 1. AWS Certified Solutions Architect – Associate 
 
 
+## Come to my Velog
+https://velog.io/@g9bonwook/posts
 
 
 
